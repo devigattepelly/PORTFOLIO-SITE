@@ -17,7 +17,7 @@ export const site = {
     "Along the way I've become more interested in what happens after the notebook: deployment, monitoring and keeping models reliable. That led me into an AI engineering role, where I started building applications on top of modern machine learning and language models.",
     "[Add one or two sentences in your own voice: what you enjoy working on, the kind of team you want to join.]",
   ],
-  email: "your.email@example.com",
+  email: "devigattepelly@gmail.com",
   linkedin: "https://www.linkedin.com/in/your-handle",
   github: "https://github.com/your-handle",
   location: "[City, Country]",
